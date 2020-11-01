@@ -1,3 +1,3 @@
 public class Administrador {
-    private String puesto;
+    private String nombre;
 }
