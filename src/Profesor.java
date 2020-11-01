@@ -1,7 +1,6 @@
 public class Profesor {
     private String nombre;
-    private String edificio;
-    private String dni;
+    private int cantAlumnos;
 
     public String getNombre() {
         return nombre;
